@@ -10,3 +10,6 @@ repositories {
 dependencies {
 	compile("org.bukkit:bukkit:1.13-R0.1-SNAPSHOT")
 }
+
+val jar: Jar by tasks
+jar.from("LICENSE")
