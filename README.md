@@ -1,5 +1,5 @@
 # PegasusEffectCure
-> Were you ever kicked for flying when all you did was just hop on a horse?
+> Were you ever kicked for flying when all you did was just hop on a horse?  
 > Well, horse don't fly. So it must have been a Pegasus!
 
 Temporary fix for a bug https://bugs.mojang.com/browse/MC-98727.
