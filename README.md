@@ -1,3 +1,4 @@
+![logo](https://i.imgur.com/1VAbHmJ.png)
 # PegasusEffectCure
 > Were you ever kicked for flying when all you did was just hop on a horse?  
 > Well, horse don't fly. So it must have been a Pegasus!
