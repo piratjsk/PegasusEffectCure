@@ -13,7 +13,7 @@ import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
-public final class FixPegasusEffect extends JavaPlugin implements Listener {
+public final class PegasusEffectCure extends JavaPlugin implements Listener {
 
     @Override
     public void onEnable() {

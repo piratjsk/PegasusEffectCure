@@ -1,1 +1,1 @@
-rootProject.name = "FixPegasusEffect"
+rootProject.name = "PegasusEffectCure"
