@@ -1,4 +1,4 @@
-package net.piratjsk.fixpegasuseffect;
+package net.piratjsk.pegasuseffectcure;
 
 import org.bukkit.Material;
 import org.bukkit.entity.AbstractHorse;
